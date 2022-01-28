@@ -1,6 +1,6 @@
 Package: acca
-Version: 0.1
-Date: 2022-01-01
+Version: 0.2
+Date: 2022-01-28
 Title: A Canonical Correlation Analysis with Inferential Guaranties
 Author: Livio Finos
 Maintainer: livio finos <livio.finos@unipd.it>
@@ -10,6 +10,6 @@ License: GPL (>= 2)
 RoxygenNote: 7.1.2
 Imports: methods, stats, ggplot2, plyr
 NeedsCompilation: no
-Packaged: 2022-01-12 21:18:33 UTC; livio
+Packaged: 2022-01-28 07:56:02 UTC; livio
 Repository: CRAN
-Date/Publication: 2022-01-13 08:42:45 UTC
+Date/Publication: 2022-01-28 08:10:02 UTC
